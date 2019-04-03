@@ -1,4 +1,4 @@
-# Dev-Huddler-FOSSContribution
+# Dev-Huddler-FOSS Contribution Demo
 
 Demo on FOSS contribution. 
 
